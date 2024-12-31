@@ -20,11 +20,12 @@
 | **Agile Methodologies** | Studying agile project management methodologies like Scrum and Kanban. |
 | **Technical English**   | Improving technical English comprehension, essential in the IT field. |
 
-## Contact
+## Contacts
 
-- 📧 Email: [daniludeke2@gmail.com](mailto:daniludeke2@gmail.com)
-- 📷 Instagram: [@will_ldk_](https://www.instagram.com/will_ldk_)
-- 🎮 Twitch: [will_ldk_](https://www.twitch.tv/will_ldk_)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniludeke2@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_ldk_)
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/will_ldk_)
+
 
 ## Technologies and Tools
 
