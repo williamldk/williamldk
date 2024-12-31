@@ -40,6 +40,6 @@ I’m currently exploring the following technologies:
 ## GitHub Stats
 
 <div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-ldk&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=will-ldk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamldk&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=williamldk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
